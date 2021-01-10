@@ -4,7 +4,7 @@ this web application works as the same as the instagram website the user able to
 
 ## By Bonte Emma BANA
 ## Description
-Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images , 10 january 2020
+Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images , 10 january 2021
 
 every user can post any picture by creating and account and view all picture posted those you follower 
 
@@ -34,4 +34,4 @@ Use Terminal to open the server and the brouser to run this application
 ## License
 Permission is granted , free of charge to any one who want use this Gallery app, by  copy this software for fee.this website is an open website every one can use it by Ordering ,searching and visite the website 
  otherwise no one is allowed to use it by huncking the website 
-Copyright (c) 2019 | Bonte Emma BANA
+Copyright (c) 2021 | Bonte Emma BANA
